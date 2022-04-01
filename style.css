@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Marck+Script&family=Monoton&family=Special+Elite&display=swap');
+h1	{
+	color: #DAB88B;
+	text-align: center;
+	font-size:30px;
+	font-family: 'Abril Fatface', cursive;
+}
+
+
+#presentation-title {
+	width: 300px;
+}
+
+
+div {
+	
+	margin: auto;
+}
+
+img {
+	width: 1420px;
+	height:450px
+}
+
+h2 {
+	font-family: 'Abril Fatface', cursive;
+	color: #FAF8F3;
+}
+
+h3 {font-family: 'Abril Fatface', cursive;
+}
+
+#blog {
+	text-decoration: none;
+	background-color: #99A799;
+	color: #FAF8F3;
+	padding: 10px;
+	text-align: center;
+	border-radius:5px
+}
+
+#blog:hover {
+	background-color: #6E896E ;
+}
+
+#photo-profil {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	object-fit: cover;
+	text-align: center;
+	margin-left: 43px;
+}
+
+p {
+	font-family: 'Cormorant Garamond', serif;
+}
+
+li {
+	font-family: 'Cormorant Garamond', serif;
+}
+
+#presentation {
+	/*height:  640px;*/
+	width:285px;
+	box-shadow:100px 20px 30px 
+	border:10px solid yellow
+	border-radius:50%;
+	padding:10px 20px;
+	background-color: #BACDBA;
+	box-shadow:10px 20px 30px #BACDBA;
+	margin-left: 0;
+	margin-right: 16px;
+	border-radius: 4px;
+	}
+
+#competences-perso {
+
+	/*margin:300px;*/
+	padding:10px 20px;
+	border:10px ;
+	background-color: #D1BAAB;
+	margin-bottom: 10px;
+	box-shadow:5px 5px 5px #CBB7AB;
+	border-radius: 4px;
+}
+
+#competences-pro {
+    /*margin:300px;*/
+	padding:10px 20px;
+	border:10px ;
+	background-color: #D1BAAB;
+	box-shadow:5px 5px 5px #CBB7AB;
+	border-radius: 4px;
+}
+
+#formation-pro {
+    /*margin:300px;*/
+	padding:20px 20px;
+	border:10px ;
+	background-color: #D1BAAB;
+	box-shadow:5px 5px 5px #CBB7AB;
+	border-radius: 4px;
+	}
+
+#langues {
+	/*margin:300px;*/
+	padding:10px 20px;
+	border:10px ;
+	background-color: #D1BAAB;
+	margin-bottom: -20px;
+	box-shadow:5px 5px 5px #CBB7AB;
+	padding-top: 16px;
+	border-radius: 4px;
+}
+
+#experience-jounalisme {
+	/*margin:300px;*/
+	padding:10px 20px;
+	border:10px ;
+	background-color: #D1BAAB;
+	margin-bottom: 160px;
+	box-shadow:5px 5px 5px #CBB7AB;
+	border-radius: 4px;
+}
+
+#experience-pro {
+    /*margin:300px;*/
+	padding:7px 20px;
+	border:5px ;
+	background-color: #D1BAAB;
+	margin-bottom: 155px;
+	box-shadow:5px 5px 4px #CBB7AB;
+	border-radius: 4px;
+}
+
+#reseaux {
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 32px;
+	color: #FAF8F3;
+	font-size: 20px;
+}
+
+#container-principal {
+	height:  1000px;
+	width: 100%;
+	margin:20px auto;
+	display: flex;
+	justify-content: space-around;
+	align-items: stretch;
+	flex-wrap: wrap;
+	margin-top: -120px;
+}
+
+#container-right {
+	/*height:  640px;*/
+	margin:  0;
+	display: flex;
+	align-items: start;
+	width: 1000px;
+	flex-wrap: wrap;
+	margin-bottom: 10px;
+}
+
+.card {
+	width: 200px;
+	}
+
+#competences {
+	height: 640px;
+	display:  flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+#formation {
+	height: 640px;
+	display:  flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin-bottom: 183px;
+}
+
+i{
+	color:  #FAF8F3;
+}
+
+#video {
+	text-decoration: none;
+	display: flex;
+	margin-bottom: 30px;
+	color: black;
+	font-size: 20px;
+
+}
+
+#video:hover {
+color: #CD9341;
+}
+
+.fa-brands:hover {
+	color: #6E896E ;
+}
+
+
